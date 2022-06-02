@@ -6,7 +6,7 @@ I am passionate about challenges and new things. I discovered that I love progra
 I am currently working on the development of an eCommerce store.
 I’m looking to collaborate on web development projects...
 
-## skills 
+## Skills 
 
 💡 Proactive<br>
 🤓 Persistent<br>
