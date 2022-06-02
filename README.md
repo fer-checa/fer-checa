@@ -8,9 +8,9 @@ I’m looking to collaborate on web development projects...
 
 ## skills 
 
-💡 Proactive
-🤓 Persistent
-🧩 Resolutive
+💡 Proactive<br>
+🤓 Persistent<br>
+🧩 Resolutive<br>
 🤖 Resilient
 
 
