@@ -1,10 +1,10 @@
 # Hi I´m Fer Checa 👋 
 
-Systems Engineer entering the world of developers with Java Script, React.JS and Node.JS 
-¡Eager to keep learning!
-I am passionate about challenges and new things. I discovered that I love programming.
-I am currently working on the development of an eCommerce store.
-I’m looking to collaborate on web development projects...
+I am a Systems Engineer and I am venturing into the world of programming with Java Script, React.JS and Node.JS. 
+
+I am eager to continue learning! I am passionate about challenges and new things. I discovered that I love programming. 
+
+I am currently working on developing an e-commerce store. Looking to collaborate on web development projects...
 
 ## Skills 
 
