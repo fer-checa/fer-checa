@@ -1,7 +1,25 @@
 # Hi I´m Fer Checa 👋 
 ## Full Stack Developer | Systems Engineer
-I like to work in a team, in an organized way, with good planning and time management.
+I am a user-oriented creative developer. I have analytical capacity and I like to work in a team, in an organized way, with good planning and time management.
 I am currently working on developing an e-commerce store. Looking to collaborate on web development projects...
+
+## Technical Skills
+
+- Node.JS
+- React
+- Express
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- API creation and consumption
+- Git
+- Agile Methodologies (SCRUM)
+- Object Oriented Programming (OOP)
+- Architecture Pattern MVC
+- Postman
+- Sequelize
+- VSCode
 
 ## Skills 
 
@@ -9,7 +27,6 @@ I am currently working on developing an e-commerce store. Looking to collaborate
 🤓 Persistent<br>
 🧩 Resolutive<br>
 🤖 Resilient
-
 
 ## Contact
 
