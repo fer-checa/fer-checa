@@ -5,21 +5,7 @@ I am currently working on developing an e-commerce store. Looking to collaborate
 
 ## Technical Skills
 
-- Node.JS
-- React
-- Express
-- HTML
-- CSS
-- JavaScript
-- MySQL
-- API creation and consumption
-- Git
-- Agile Methodologies (SCRUM)
-- Object Oriented Programming (OOP)
-- Architecture Pattern MVC
-- Postman
-- Sequelize
-- VSCode
+Node.JS | React | Express | HTML | CSS | JavaScript| MySQL | API creation and consumption | Git | Agile Methodologies (SCRUM) | Object Oriented Programming (OOP) | Architecture Pattern MVC | Postman | Sequelize | VSCode
 
 ## Skills 
 
