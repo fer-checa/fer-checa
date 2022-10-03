@@ -1,5 +1,5 @@
 # 💫About Me 
-# Hi 👋 I´m Fer Checa 
+# Hi 👋 I´m Fernanda Checa 
 ## Full Stack Developer | Systems Engineer
 I am a user-oriented creative developer. I have analytical capacity and I like to work in a team, in an organized way, with good planning and time management.
 I am currently working on developing an e-commerce store. Looking to collaborate on web development projects...
