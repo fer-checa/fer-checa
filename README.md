@@ -4,7 +4,7 @@
 I am a user-oriented creative developer. I have analytical capacity and I like to work in a team, in an organized way, with good planning and time management.
 I am currently working on developing an e-commerce store. Looking to collaborate on web development projects...
 
-## Technical Skills
+## 💻Technical Skills
 
 Node.JS | React | Express | HTML | CSS | JavaScript| MySQL | API creation and consumption | Git | Agile Methodologies (SCRUM) | Object Oriented Programming (OOP) | Architecture Pattern MVC | Postman | Sequelize | VSCode
 
@@ -15,7 +15,7 @@ Node.JS | React | Express | HTML | CSS | JavaScript| MySQL | API creation and co
 🧩 Resolutive<br>
 🤖 Resilient
 
-## Contact
+## 🌐Socials
 
 * LinkedIn: https://www.linkedin.com/in/fernanda-checa-20b793a3/
 
