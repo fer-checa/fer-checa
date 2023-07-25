@@ -11,14 +11,14 @@ Node.JS | React | Express | HTML | CSS | JavaScript| MySQL | API creation and co
 
 
 
-## <h3 align="center"Skills</h3>
+## <h3 align="center">Skills</h3>
 
 💡 Proactive<br>
 🤓 Persistent<br>
 🧩 Resolutive<br>
 🤖 Resilient
 
-## <h3 align="center"🌐Socials</h3>
+## <h3 align="center">🌐Socials</h3>
 
 * LinkedIn: https://www.linkedin.com/in/fernanda-checa-20b793a3/
 
