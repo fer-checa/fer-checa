@@ -9,16 +9,14 @@ I am currently working at Banco Comafi as a full stack web developer.
 Node.JS | React | Express | HTML | CSS | JavaScript| MySQL | API creation and consumption | Git | Agile Methodologies (SCRUM) | Object Oriented Programming (OOP) | Architecture Pattern MVC | Postman | Sequelize | VSCode | AWS | Bitbucket | Jenkins
 
 
-
-
-## <h3 align="center">Skills</h3>
+## <h2>Skills</h2>
 
 💡 Proactive<br>
 🤓 Persistent<br>
 🧩 Resolutive<br>
 🤖 Resilient
 
-## <h3 align="center">🌐Socials</h3>
+## <h2>🌐Socials</h2>
 
 * LinkedIn: https://www.linkedin.com/in/fernanda-checa-20b793a3/
 
