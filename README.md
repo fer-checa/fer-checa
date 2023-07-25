@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Fernanda Checa</h1>
-## <h1 align="center">Full Stack Developer | Systems Engineer</h1>
+# <h1 align="center">Full Stack Developer | Systems Engineer</h1>
 
 I am a user-oriented creative developer. I have analytical capacity and I like to work in a team, in an organized way, with good planning and time management.
 I am currently working at Banco Comafi as a full stack web developer.
