@@ -1,5 +1,5 @@
 # <h1 align="center">Hi there, I'm ✨ Fer Checa ✨ 👋</h1>
-<h1 align="center">Full Stack Developer | Systems Engineer</h1>
+<h2 align="center">Full Stack Developer | Systems Engineer</h2>
 
 - 🔭 I’m currently working on AWS, but I’m also interested in other technologies.
 - 🌱 I’m currently learning: TypeScript and improving my skills with React.
