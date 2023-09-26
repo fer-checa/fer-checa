@@ -1,8 +1,11 @@
-# <h1 align="center">Hi 👋, I'm Fernanda Checa</h1>
+# <h1 align="center">Hi there, I'm ✨ Fer Checa ✨ 👋</h1>
 # <h1 align="center">Full Stack Developer | Systems Engineer</h1>
 
-I am a user-oriented creative developer. I have analytical capacity and I like to work in a team, in an organized way, with good planning and time management.
-I am currently working at Banco Comafi as a full stack web developer.
+- 🔭 I’m currently working on AWS, but I’m also interested in other technologies.
+- 🌱 I’m currently learning: TypeScript and improving my skills with React.
+- 💬 Ask me about: HTML, CSS and JavaScript, React, NodeJS.
+- 📫 How to reach me: drop me a line to [fernanda.checa2015@gmail.com]
+- ⚡ Fun fact: I'm a freaking lover of ☕️  and 🍟
 
 ## <h1 align="center">💻Technical Skills</h1>
 
